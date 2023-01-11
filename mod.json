@@ -1,7 +1,7 @@
 {
 	"name": "ui-lib2",
 	"displayName": "[#00aaff]UI Lib[]",
-	"author": "deltanedas",
+	"author": "deltanedas [modified by NazarID]",
 	"description": "Library for other mods that unifies and simplifies UI creation.",
 	"version": "4.18.0",
 	"hidden": true,
